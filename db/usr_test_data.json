@@ -10,5 +10,17 @@
             "name": "Jane Smith",
             "email": "jane.smith@example.com"
         }
+    ],
+    "events": [
+        {
+            "id": 1,
+            "name": "birthday,",
+            "usr-id" : 2 
+        },
+        {
+            "id": 2,
+            "name": "aniversery,",
+            "usr-id" : 1 
+        }
     ]
 }
