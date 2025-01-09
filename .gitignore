@@ -2,3 +2,4 @@
 test_files
 *.db
 __pycache__/
+.DS_Store
